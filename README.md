@@ -65,6 +65,42 @@ data compositions of both datasets are given in Table 1.
   
 ## Results
 
+![364](https://user-images.githubusercontent.com/117115792/209479929-91b1689c-bfa8-4ccf-98fa-b42f82b47763.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
+![7](https://user-images.githubusercontent.com/117115792/209479941-71312e8c-d30e-49c8-97f0-acaa2ad20052.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
+![76](https://user-images.githubusercontent.com/117115792/209479956-bed8eb54-99f6-4b6f-9fe8-400adcca8789.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
+![86](https://user-images.githubusercontent.com/117115792/209479964-97934582-ef71-4c67-b0e2-ba8cb58ac5d3.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
+![27](https://user-images.githubusercontent.com/117115792/209479977-7e2c8cd0-0ca6-4c46-aae8-524807b73062.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
+![32](https://user-images.githubusercontent.com/117115792/209479985-187b278d-4d63-451e-b326-fa91f75593b9.png)
+
+Clean Signal:
+Corrupted Signal:
+Restored Signal:
+
 ## Citation
 If you find this project useful, we would be grateful if you cite this paper：
 

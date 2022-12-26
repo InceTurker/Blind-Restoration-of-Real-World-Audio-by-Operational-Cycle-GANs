@@ -65,7 +65,141 @@ data compositions of both datasets are given in Table 1.
   
 ## Results
 
+![30](https://user-images.githubusercontent.com/117115792/209517363-7611fab5-fa90-4df9-9693-c0a449a5c48f.png)
 
+Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209534081-7136aec8-a14e-4e15-9c7c-ba4ea0b0d29a.mp4
+
+Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209534102-c502e4d8-2956-4153-aad5-0c37cabf3c4e.mp4
+
+Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/209534109-b78c0e9e-a744-43e6-abc0-482b708a1ac4.mp4
+
+![500](https://user-images.githubusercontent.com/117115792/209517375-f5a1cc89-c20e-483e-99d5-48b00602c550.png)
+
+Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209534135-2f15b4e9-a361-4f04-b976-97c271288f42.mp4
+
+Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209534148-d412493b-3844-4448-81e1-4bd109bf4be6.mp4
+
+Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/209534158-b4545f1e-5d16-4e58-8a67-8b398fd6cdf4.mp4
+
+![743](https://user-images.githubusercontent.com/117115792/209517383-60b4229a-aeae-48f8-8cc5-2910f020ae3b.png)
+
+Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209534185-c9727d86-c9b6-405d-a274-a61383d55d60.mp4
+
+Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209534196-75d3da2e-1769-4fb7-bf38-c15fbf0f5c94.mp4
+
+Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/209534213-e19f88c3-38a2-4bc8-9ed7-426f4a692880.mp4
+
+![752](https://user-images.githubusercontent.com/117115792/209517392-1d430f84-4adc-4206-94cb-cf281135ce7b.png)
+
+Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209534247-5a7a98cc-de28-4467-8a38-1f0017ee4c43.mp4
+
+Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209534260-77ad666b-3913-4da6-b97b-735477c7d3c7.mp4
+
+Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/209534282-236780dd-eb95-4206-8eea-4158e7d0ca42.mp4
+
+![963](https://user-images.githubusercontent.com/117115792/209517402-17eae4b8-f9ed-4467-aa20-9766376eef48.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![988](https://user-images.githubusercontent.com/117115792/209517414-a68d633f-e111-49a9-a1d5-2114ae74ef75.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1000](https://user-images.githubusercontent.com/117115792/209517422-11ee15d6-15de-407b-a8c5-db4d6aed2e7f.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1007](https://user-images.githubusercontent.com/117115792/209517429-2bd68315-37d0-4cfd-bc89-5bfe2cef5dcd.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1008](https://user-images.githubusercontent.com/117115792/209517440-ac2d9068-4b20-4ddd-adb6-735edd9af2cf.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1009](https://user-images.githubusercontent.com/117115792/209517444-1562c27b-24cc-436a-b8b7-88cbb5f33b70.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1027](https://user-images.githubusercontent.com/117115792/209517448-7494655d-e45b-43cc-85f3-21c1d66ecae1.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1034](https://user-images.githubusercontent.com/117115792/209517457-6de66000-d116-4a0b-b9e8-1ffba4ce5483.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1265](https://user-images.githubusercontent.com/117115792/209517470-31c87daf-70ce-494f-b0fc-ff6eb90e1782.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
+
+![1284](https://user-images.githubusercontent.com/117115792/209517474-e37ac407-ffd6-49a5-b942-83ba7d113ab5.png)
+
+Clean Signal:
+
+Corrupted Signal:
+
+Restored Signal:
 
 ![7](https://user-images.githubusercontent.com/117115792/209510044-2fde7e8c-9151-4b79-bc05-202a3ee8b9c2.png)
 

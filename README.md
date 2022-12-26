@@ -65,39 +65,93 @@ data compositions of both datasets are given in Table 1.
   
 ## Results
 
+![364](https://user-images.githubusercontent.com/117115792/209510018-f295f4af-d2e1-444e-b569-090a485ca73e.png)
 
-Clean Signal:
+Clean Signal: 
+
+https://user-images.githubusercontent.com/117115792/209516053-e1cdbf02-b260-48b0-9de8-cc74babafbdc.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516106-21149458-d484-44ca-95b3-f6292cc795e5.mp4
+
 Restored Signal:
 
+https://user-images.githubusercontent.com/117115792/209516153-dabeb088-ab9c-4963-9c65-94c3524e8ced.mp4
+
+![7](https://user-images.githubusercontent.com/117115792/209510044-2fde7e8c-9151-4b79-bc05-202a3ee8b9c2.png)
 
 Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209516240-995b3842-820f-479c-b901-1d30fe112c57.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516255-ec9a791e-9e28-4465-92ce-c40db6671619.mp4
+
 Restored Signal:
 
+https://user-images.githubusercontent.com/117115792/209516266-f7b7a368-df33-41c2-a102-501876b1d7c7.mp4
+
+![76](https://user-images.githubusercontent.com/117115792/209510078-9721d1a2-6bf7-4667-a2a1-7b7f22ac0446.png)
 
 Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209516352-0e7ee26e-cefa-44fc-86b0-7bbeab67b2ed.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516361-d9d77eca-62c0-49ae-acda-7f9c4430dabf.mp4
+
 Restored Signal:
 
+https://user-images.githubusercontent.com/117115792/209516370-9550b184-15b1-4d21-ba80-b25cff7fa19b.mp4
+
+![86](https://user-images.githubusercontent.com/117115792/209510106-a85680e9-7933-42b8-b219-5b5bf97b59ff.png)
 
 Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209516472-f01d422f-a44a-471f-9e7c-18b74b57eb76.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516481-baa50b75-7510-4264-8bcd-9550050d1fd9.mp4
+
 Restored Signal:
 
+https://user-images.githubusercontent.com/117115792/209516487-d70342a9-f1fd-43a0-ae2f-e8954f3bb0cb.mp4
+
+![27](https://user-images.githubusercontent.com/117115792/209510128-95aa7880-07c9-45d1-ace3-65a13d28b0fa.png)
 
 Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209516546-c8f2b886-33de-48e3-8c5b-c43dccc596f9.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516560-21ba4d60-0733-49ba-8841-d8e34b5b6e73.mp4
+
 Restored Signal:
 
+https://user-images.githubusercontent.com/117115792/209516569-7d0bf58b-99f5-4162-84b9-b7562ba2edf3.mp4
+
+![32](https://user-images.githubusercontent.com/117115792/209510142-75efddbd-483f-4df0-8ded-1e12b39b13a7.png)
 
 Clean Signal:
+
+https://user-images.githubusercontent.com/117115792/209516633-4586be01-98d1-47ca-9864-223eb130da69.mp4
+
 Corrupted Signal:
+
+https://user-images.githubusercontent.com/117115792/209516644-fb511f32-4c2a-40a1-9ff1-55104b9cb48d.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/209516657-6239ef67-370b-4853-a63b-61a2d19b5ef0.mp4
 
 ## Citation
 If you find this project useful, we would be grateful if you cite this paper：
 
 ```http
-Kiranyaz S, Devecioglu OC, Ince T, Malik J, Chowdhury M, Hamid T, Mazhar R, Khandakar A, Tahir A, Rahman T, Gabbouj M. Blind ECG Restoration by Operational Cycle-GANs. IEEE Trans Biomed Eng. 2022 Dec;69(12):3572-3581. doi: 10.1109/TBME.2022.3172125. Epub 2022 Nov 21. PMID: 35503842.
+
 ```

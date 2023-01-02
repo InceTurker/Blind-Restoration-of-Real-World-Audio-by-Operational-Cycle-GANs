@@ -2,7 +2,7 @@
 # Project Description
 
 Objective: Despite numerous studies proposed for audio restoration in the literature, most of them focused on an isolated restoration problem such as denoising or dereverberation, ignoring the other artifacts. Moreover, assuming a limited number of signal-to-distortion ratio (SDR) levels is a common practice. However, real-world audio is often corrupted by a blend of artifacts such as reverberation, sensor noise, and background audio mixture with varying types, severities, and duration. In this study, we propose a novel approach for blind restoration of real-world audio signals by Operational Generative Adversarial Networks (Op-GANs) with temporal and spectral objective metrics to enhance the quality of restored audio signal regardless of the type and severity of each artifact corrupting it. Methods: 1D Operational-GANs are used with the generative neuron model optimized for blind restoration of any corrupted audio signal. Results: The proposed approach has been evaluated extensively over the benchmark TIMIT-RAR (speech) and GTZAN-RAR (non-speech) datasets corrupted with a random blend of artifacts each with a random severity to mimic real-world audio signals. Average SDR improvements over 7.2 dB and 4.9 dB are achieved, respectively. Significance: This is a pioneer study in blind audio restoration with the unique capability of direct (time-domain) restoration of real-world audio whilst achieving an unprecedented level of performance for a wide SDR range and artifact types. Conclusion: 1D Op-GANs can achieve robust and computationally effective real-world audio restoration with an elegant performance level.
-[Paper Link](https://arxiv.org/abs/2202.00589)
+[Paper Link](https://arxiv.org/abs/2212.14618)
 
 ![image](https://user-images.githubusercontent.com/117115792/209479770-85f967b7-91f9-42f6-af34-08a3412bba1f.png)
 
@@ -42,20 +42,11 @@ data compositions of both datasets are given in Table 1.
 ## Run
 
 #### Train
-- Download train data to the "mats/" folder
-- Start training
+- Will be updated.
 ```http
   python 1D_Self_Operational_CycleGAN.py
 ```
-- Start evaluation. You can download Pre-trained Network [weights](https://drive.google.com/drive/folders/1ezrWa6A69H5ccNV1y2hb_GuyLsmEk1ff?usp=sharing)
-```http
-  python test.py
-```
-- Save outputs to the "test_outputs/" folder 
-- Visualize Results
-```http
-  python plot_outputs.py
-```
+
 ## Prerequisites
 - Pyton 3
 - Pytorch
@@ -125,81 +116,143 @@ https://user-images.githubusercontent.com/117115792/209534282-236780dd-eb95-4206
 
 Clean Signal:
 
+
+https://user-images.githubusercontent.com/117115792/210251819-46b4efdc-0a21-48a8-bc0e-03e8ec62d868.mp4
+
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210251827-7a23dabb-f70b-4eba-84ec-0524bd3077c0.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210251831-d76514ff-27c3-4b47-bbd0-976379152674.mp4
 
 ![988](https://user-images.githubusercontent.com/117115792/209517414-a68d633f-e111-49a9-a1d5-2114ae74ef75.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210251861-6afb3fd5-9fea-4d2c-8b70-18c1d62efdcb.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210251877-b77e2f66-2d87-42ea-a4c6-9567bc978929.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210251898-4d3fc8f7-1c5b-42cd-ab67-15c9f9c69df8.mp4
 
 ![1000](https://user-images.githubusercontent.com/117115792/209517422-11ee15d6-15de-407b-a8c5-db4d6aed2e7f.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210251909-f4ff3544-01a9-491b-ba0c-aaa9bb94c579.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210251916-06430c21-51fd-4962-9723-10e24a2c4ee5.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210251935-9f74a6e9-69f6-4e81-9fc0-96d8c6bde4f9.mp4
 
 ![1007](https://user-images.githubusercontent.com/117115792/209517429-2bd68315-37d0-4cfd-bc89-5bfe2cef5dcd.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210251939-a0317644-742c-4107-b1fe-bcda66bc19eb.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210251946-cb1a9a0b-f7b9-43d5-82df-ada33779779d.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210251955-d2b67cc9-8fe1-4b30-bc12-66633eb278be.mp4
 
 ![1008](https://user-images.githubusercontent.com/117115792/209517440-ac2d9068-4b20-4ddd-adb6-735edd9af2cf.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210251968-68070ed8-adc0-4014-8898-28548acf929d.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210251982-20538f03-71cb-4d11-9407-ff9b6411e64c.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210251988-3dce021a-1df3-4906-976f-cbadadb9dcfd.mp4
 
 ![1009](https://user-images.githubusercontent.com/117115792/209517444-1562c27b-24cc-436a-b8b7-88cbb5f33b70.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210252006-9a59e774-673d-4196-a0c3-790050a9b642.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210252014-472190c7-5be6-43df-9526-beae61325207.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210252038-13661baf-0a40-4fe4-9761-3b326eb44a19.mp4
 
 ![1027](https://user-images.githubusercontent.com/117115792/209517448-7494655d-e45b-43cc-85f3-21c1d66ecae1.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210252052-41528775-a298-49ab-a88a-e1fb408a28cb.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210252071-6cd46c1b-14c2-4ae3-b32f-0b2f9b357f74.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210252082-d815b350-6f7b-4a85-9bff-befcd1473c05.mp4
 
 ![1034](https://user-images.githubusercontent.com/117115792/209517457-6de66000-d116-4a0b-b9e8-1ffba4ce5483.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210252119-8effb132-8ddd-43fe-85a0-5674bfcc84e1.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210252128-467c9ca1-4c33-4631-8a1f-f88429e5677f.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210252144-8a2dd1a2-179a-4200-bed9-2cd11a72d6e0.mp4
 
 ![1265](https://user-images.githubusercontent.com/117115792/209517470-31c87daf-70ce-494f-b0fc-ff6eb90e1782.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210252157-32e77f48-07f6-4858-b7c1-6a9a79c69ea7.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210252169-aa3ae1c6-6aad-405b-8f3a-104b2bcc7d92.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210252175-388fdd2a-e21b-406d-84c1-999a6af4040a.mp4
 
 ![1284](https://user-images.githubusercontent.com/117115792/209517474-e37ac407-ffd6-49a5-b942-83ba7d113ab5.png)
 
 Clean Signal:
 
+https://user-images.githubusercontent.com/117115792/210252182-83849fc6-54ad-44e8-b9fd-8120fefde265.mp4
+
 Corrupted Signal:
 
+https://user-images.githubusercontent.com/117115792/210252196-927044ec-2d26-4224-a154-d1a20cb2a111.mp4
+
 Restored Signal:
+
+https://user-images.githubusercontent.com/117115792/210252214-10d3a07e-7192-4544-a5ca-d004995563a6.mp4
 
 ![7](https://user-images.githubusercontent.com/117115792/209510044-2fde7e8c-9151-4b79-bc05-202a3ee8b9c2.png)
 
